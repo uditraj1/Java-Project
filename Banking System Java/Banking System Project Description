@@ -1,1 +1,14 @@
+# Java-Project
+Bank Management System
 
+The Domain “Banking System” keeps the day by day tally record as a complete banking. It can keep the information of Account type, Deposit, Withdrawal, and track of new and existing accounts. The exciting part of this project is that it displays all the customer details and keeps them notified of the minimum balance requirement of a savings account and deducts penalties accordingly.
+ 
+ 
+In the existing system the transactions are done only manually but in proposed system we have to computerize all the banking transaction using Bank management system.
+ The major operations in the system are:
+Creating a new account: The bank verifies customer details can add accounts until the limit is not exceeded (i.e. 20)
+Revising existing accounts: After each transaction, the balance is calculated and revised
+Checking minimum balance: A minimum balance of 500 is necessary failing which a penalty is imposed by the bank.
+Deposit: Any amount of money can be deposited in the bank by the customer and interest is calculated accordingly
+Withdrawal: An extra condition is placed to check if the amount to be withdrawn is lesser than or equal to the current balance.
+Balance summary: Balance summary is displayed after each transaction and updated after every deposit/withdrawal.
